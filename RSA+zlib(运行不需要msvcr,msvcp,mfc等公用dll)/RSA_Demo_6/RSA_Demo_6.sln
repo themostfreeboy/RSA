@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RSA_Demo_6", "RSA_Demo_6\RSA_Demo_6.vcxproj", "{F172688F-2D05-4573-904B-F06A1F987CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F172688F-2D05-4573-904B-F06A1F987CEF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F172688F-2D05-4573-904B-F06A1F987CEF}.Debug|Win32.Build.0 = Debug|Win32
+		{F172688F-2D05-4573-904B-F06A1F987CEF}.Release|Win32.ActiveCfg = Release|Win32
+		{F172688F-2D05-4573-904B-F06A1F987CEF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
